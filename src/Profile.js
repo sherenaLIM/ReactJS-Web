@@ -27,6 +27,7 @@ export default function Profile(props) {
     padding: "20px 10px",
   };
 
+  // extract fields from props
   const {
     id,
     first_name,
